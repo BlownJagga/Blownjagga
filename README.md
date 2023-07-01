@@ -10,6 +10,3 @@ I'm a Software Engineer, Digital Marketer, and Communicator who is currently a s
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back-End Engineer, or Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtooyedejiseyi98@gmail.com.
----
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=seyioyedeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Seyi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyioyedeji&langs_count=8&layout=compact&hide_border=true" alt="Seyii's GitHub stats" /> |
-| ------------- | ------------- |
